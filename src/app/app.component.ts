@@ -18,6 +18,6 @@ export class AppComponent {
   restar(): void {
     this.result = this.number1 - this.number2;
   }
+  //quan posem 'void' vol dir => no hi ha return
 
-  
 }
